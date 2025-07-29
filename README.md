@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>An Unreal Engine 5 Action RPG Prototype</b><br>
-  <i>Self-Growth Project | IIIT-Delhi × IGDA Student Chapter (Monsoon 2025)</i>
+  <i>Self-Growth Project | IIIT-Delhi × IGDA Student Chapter (Summer 2025)</i>
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ This game was built over **8 weeks** as part of my Self-Growth coursework at III
 
 **Keshav Chaudhary**  
 *Design · Programming · Level Design · UI · AI*  
-**Supervised by**: Taraash Mittal *(IGDA IIIT-D Chapter)*
+**Supervised by**: Taraash Mittal And Utkarsh Garg*(IGDA IIIT-D Chapter)*
 
 ---
 
